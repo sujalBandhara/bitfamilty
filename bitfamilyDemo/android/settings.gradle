@@ -1,0 +1,3 @@
+rootProject.name = 'bitfamilyDemo'
+
+include ':app'
